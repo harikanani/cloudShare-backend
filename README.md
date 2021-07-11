@@ -86,3 +86,5 @@ Alternatively, you can deploy your own copy of the app using the web-based flow:
 
 ## Support
     star 🌟 this project
+
+Credit goes to `Codersgyan` YouTube channel 
